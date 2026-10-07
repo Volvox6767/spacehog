@@ -1,7 +1,7 @@
 # spacehog 🐖💾
 
 **EN | Find what is eating your disk space — read-only, offline, zero install.**
-**TR | Disk alanınızı yiyeni bulun — salt okunur, çevrimdışı, kurumsuz.**
+**TR | DiskDomuzu — Disk alanınızı yiyeni bulun — salt okunur, çevrimdışı, kurumsuz.**
 
 "Disk nereye doldu?" sorusunun cevabı: spacehog bir klasörü tarar, en büyük
 alt klasörleri ve dosyaları yüzdeli çubuklarla listeler. Hiçbir şey silmez ya
